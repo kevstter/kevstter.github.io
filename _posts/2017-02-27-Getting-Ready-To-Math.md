@@ -4,7 +4,7 @@ title: "Getting ready to math"
 date: 2017-02-27
 ---
 
-Ever notice this: before performing some small calculation, whether it's in a magazine, or blog post, those following are warned "we're going to have to work out the math"...
+Ever notice this in books, magazines, or blog posts? Just before performing some small calculation, to stretch the excitement, those following are warned "we're going to have to work out the math"...
 
 \\[u_t = \Delta\nabla \cdot \left(\frac{\nabla u}{\lvert \nabla u \rvert}\right) - \lambda_D(u-f), \\]
 
@@ -20,7 +20,7 @@ $$ \mathsf{Data = PCs} \times \mathsf{Loadings}, $$
 
 \\[\operatorname{argmin} \int_\Omega \lvert \nabla u \rvert \,dx + \lambda\int_{\Omega \setminus D} (f-u)^2 \,dx \\]
 
-$$\dots$$ and even more formulas if the situation calls for it. 
+$$\dots$$ and then even more formulas if the situation calls for it. 
 
 (I'm having some trouble with the argmin call up there. If I give it a subscript, then later subscripts break the expression and the outputs fails to display properly. Does not seem to be a problem inline, $$\operatorname{argmin}_u \int_\Omega g dx$$, or with no more subscripts following.)
 
