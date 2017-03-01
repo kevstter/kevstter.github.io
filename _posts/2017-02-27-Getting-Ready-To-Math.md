@@ -18,7 +18,7 @@ $$ \mathsf{Data = PCs} \times \mathsf{Loadings}, $$
 
 \\[x^{n+1} = x^n - \frac{f(x^n)}{f'(x^n)}, \\]
 
-\\[\operatorname{argmin} \int_\Omega \lvert \nabla u \rvert dx + \lambda\int_{\Omega \setminus D} (f-u)^2 dx \\]
+\\[\operatorname{argmin} \int_\Omega \lvert \nabla u \rvert \,dx + \lambda\int_{\Omega \setminus D} (f-u)^2 \,dx \\]
 
 $$\dots$$ and even more formulas if the situation calls for it. 
 
